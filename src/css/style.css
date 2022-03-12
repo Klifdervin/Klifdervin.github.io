@@ -91,6 +91,7 @@ nav {
 
 .menu li a:hover{
     color: coral;
+    cursor: pointer;
     
 }
 
@@ -161,6 +162,7 @@ nav {
     background: #2a3e51;
     color: white;
     border-color: darkblue;
+    cursor: pointer;
 }
 
 .title__container input:active{
@@ -226,6 +228,7 @@ nav {
 	background: #2a3e51;
     color: white;
     border-color: darkblue;
+    cursor: pointer;
 }
 
 .about_me input:active{
@@ -333,6 +336,7 @@ nav {
 .clientwebsite input:hover{
 	background: white;
 	color: #00b6af;
+    cursor: pointer;
 }
 
 .clientwebsite input:active{
@@ -396,6 +400,7 @@ nav {
 	transform: scale(1.02);
 	border: 2px solid cornflowerblue;
 	box-shadow: 5px 5px aqua;
+    cursor: pointer;
 }
 
 
@@ -555,6 +560,7 @@ footer h3 {
 	color: darkblue;
 	border-color: darkblue;
 	font-weight: bold;
+    cursor: pointer;
 }
 
 .contacts .send input:active{
